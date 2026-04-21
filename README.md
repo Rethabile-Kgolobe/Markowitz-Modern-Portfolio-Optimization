@@ -120,21 +120,6 @@ The Efficient Frontier shows the set of optimal portfolios offering the highest 
 
 ---
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Usage
-
-```bash
-python main.py
-```
-
----
 
 ##  Data Source
 
