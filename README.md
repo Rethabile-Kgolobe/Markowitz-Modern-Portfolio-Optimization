@@ -114,10 +114,6 @@ This project is for **educational purposes only** and does not constitute financ
 
 ---
 
-## Future Improvements
-
----
-
 ## Author
 
 Rethabile Kgolobe
